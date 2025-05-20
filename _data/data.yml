@@ -8,54 +8,55 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Tomas Ernesto Matos Moreira
+  tagline: Junior HVAC Technician
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  email: example@gmail.com
+  phone: 656 238 6180
+  #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Cuban
+  #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  #linkedin: alandoe
+  #xing: alandoe
+  #github: jekyll
+  #telegram: # add your nickname without '@' sign
+  #gitlab:
+  #bitbucket:
+  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  #twitter: '@jekyllrb'
+  #stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #codewars:
+  #goodreads: # Number-Username, e.g. 123456-alandoe
+  #mastodon: # Please include your full Mastodon link here.
+  #hackerrank: # Please provide your HackerRank username.
+  #leetcode: # Please provide your LeetCode username.
+  #pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
     info:
     - idiom: English
-      level: Native
-
-    - idiom: French
-      level: Professional
+      level: Basic – Intermediate (currently improving)
 
     - idiom: Spanish
-      level: Professional
+      level: Native
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Mechanical Repairs & Home Improvement Projects
       link:
 
-
-    - item: Snowboarding
+    - item: Learning about HVAC Systems and New Technologies
       link:
 
+    - item: Outdoor Activities (hiking, biking, sports)
+      link:
+
+    - item: Problem Solving and Technical Challenges
+      link:
 
     - item: Cooking
       link:
@@ -64,29 +65,16 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Motivated and hardworking individual with hands-on experience as a self-taught
+    and junior HVAC technician. Seeking an opportunity to join a company where I can
+    contribute, learn, and grow within the HVAC industry. Highly dedicated, with a
+    strong work ethic, excellent teamwork skills, and a passion for delivering quality service.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Medical Degree
+    university: University of Medical Sciences, Cuba 
+    time: 2015 - 2022
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -99,52 +87,31 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Junior HVAC Technician (Self-Taught)
+    time: 2024 - 2025
+    company: Startup Hubs, Port Richey, FL
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+        - Assisted in the installation and maintenance of Split and Central AC units.
+        - Performed refrigerant top-offs and duct cleaning tasks.
+        - Conducted basic system diagnostics and resolved common malfunctions.
+        - Participated in small repair and improvement projects for residential clients.
+
+  - role: Maintenance and Landscaping Worker
+    time: 2023 - 2024
+    company: Mexico
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - Maintained gardens and outdoor areas for hotels and commercial properties.
+        - Repaired irrigation systems and outdoor lighting.
+        - Worked in a team setting to maintain exterior property aesthetics.
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
+  - name: Italian and Mexican Cuisine
     start: 2020
     end: 2021
-    organization: Microsoft
-    credentialid: 111-222
+    organization: Cuba
+    credentialid: 000-000
     credentialurl: www.google.com
     credentialname: Google
     details: |
@@ -161,22 +128,6 @@ certifications:
       fringilla vel. Ut euismod, sem sed vulputate venenatis,
       justo diam viverra velit, sed rhoncus leo leo eu justo.
       Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
   title: Projects
@@ -264,23 +215,29 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Installation of residential and light commercial air conditioning units.
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: Preventive and corrective maintenance of HVAC systems.
     level: 98%
 
-  - name: Angular
+  - name: Basic troubleshooting and repair of HVAC components.
     level: 98%
 
-  - name: HTML5 & CSS
-    level: 95%
+  - name: Experience using hand and power tools for HVAC applications.
+    level: 80%
 
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
+  - name: Basic understanding of HVAC diagrams and installation manuals.
     level: 60%
+
+  - name: Strong ability to learn quickly and adapt to dynamic work environments.
+    level: 99%
+
+  - name: Physically fit and comfortable working at heights and in varying weather conditions.
+    level: 99%
+
+  - name: Customer service oriented and quality-focused.
+    level: 99%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
