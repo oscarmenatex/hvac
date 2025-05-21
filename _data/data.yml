@@ -13,7 +13,7 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@gmail.com
+  email: tomasernestomatosmoreira@gmail.com
   phone: 656 238 6180
   #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Cuban
@@ -69,6 +69,7 @@ career-profile:
     and junior HVAC technician. Seeking an opportunity to join a company where I can
     contribute, learn, and grow within the HVAC industry. Highly dedicated, with a
     strong work ethic, excellent teamwork skills, and a passion for delivering quality service.
+
 education:
   title: Education
   info:
@@ -89,7 +90,7 @@ experiences:
   info:
   - role: Junior HVAC Technician (Self-Taught)
     time: 2024 - 2025
-    company: Startup Hubs, Port Richey, FL
+    company: Flash Storm Air Conditioning, FL
     details: |
         - Assisted in the installation and maintenance of Split and Central AC units.
         - Performed refrigerant top-offs and duct cleaning tasks.
