@@ -8,15 +8,16 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Tomas Ernesto Matos Moreira
+  name: Oscar Carmenate Rodriguez
   tagline: Junior HVAC Technician
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: tomasernestomatosmoreira@gmail.com
-  phone: +1 656 238 6180
+  email: oscarmenatex@gmail.com
+  phone: +1 727 325 3450
   #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  #citizenship: Cuban
+  ubication: Florida, USA
+  citizenship: Cuban
   #website: https://oscarmenatex.github.io/hvac-cv # Include the full website URL, including "http://" or "https://".
   #linkedin: alandoe
   #xing: alandoe
@@ -58,24 +59,25 @@ sidebar:
     - item: Problem Solving and Technical Challenges
       link:
 
-    - item: Cooking
+    - item: Automotive
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Motivated and hardworking individual with hands-on experience as a self-taught
-    and junior HVAC technician. Seeking an opportunity to join a company where I can
-    contribute, learn, and grow within the HVAC industry. Highly dedicated, with a
-    strong work ethic, excellent teamwork skills, and a passion for delivering quality service.
+    Motivated to join the company as a lead HVAC technician, providing hands-on
+    experience in duct cleaning, thermal insulation, and plenum construction.
+    I'm looking for a position where I can continue developing technical skills
+    in HVAC system installation and maintenance and contribute with commitment,
+    responsibility, and a willingness to learn.
 
 education:
   title: Education
   info:
-  - degree: Medical Degree
-    university: University of Medical Sciences, Cuba 
-    time: 2015 - 2022
+  - degree: BSc in  Computer Science
+    university: Universidad de las Ciencias Informáticas. La Habana - Cuba
+    time: 2009 - 2016
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -88,35 +90,41 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Junior HVAC Technician (Self-Taught)
-    time: 2024 - 2025
-    company: Flash Storm Air Conditioning, FL
+  - role: Independent HVAC Technician (Entry Level)
+    time: 2025 - 2025
+    company: Self-Taught
     details: |
-        - Assisted in the installation and maintenance of Split and Central AC units.
-        - Performed refrigerant top-offs and duct cleaning tasks.
-        - Conducted basic system diagnostics and resolved common malfunctions.
-        - Participated in small repair and improvement projects for residential clients.
+        - Residential air conditioning duct cleaning.
+        - Installation of insulation coating on flexible and metal ducts.
+        - Sealing joints with aluminum tape and clamps.
+        - Construction of metal plenums for forced-air systems.
+        - Assistance with basic installations and unit maintenance.
+        - Application of good safety practices and proper tool use.
 
-  - role: Maintenance and Landscaping Worker
-    time: 2023 - 2024
-    company: Mexico
+  - role: Lubrication Technician / Entry-Level Technician
+    time: 2023 - 2025
+    company: Autonation Cadillac Port Richey — Port Richey, FL
     details: |
-        - Maintained gardens and outdoor areas for hotels and commercial properties.
-        - Repaired irrigation systems and outdoor lighting.
-        - Worked in a team setting to maintain exterior property aesthetics.
+        - Automotive Maintenance.
+        - Use of power, hand, and scanning tools.
+        - Customer service and minor repair management.
 
 certifications:
   title: Certifications
   list:
-  - name: Italian and Mexican Cuisine
-    start: 2020
-    end: 2021
-    organization: Cuba
-    credentialid: 000-000
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: Driver's License
+    start: 2023
+    end: 2027
+    organization: FLHSMV
+    credentialurl: mydmvportal.flhsmv.gov/home/en/publicweb/dlcheck/
+    credentialname:  Class E
     details: |
-      .
+      Any non-commercial motor vehicles with Gross Vehicle Weight
+      Rating (GVWR) less than 26,001 pounds, including passenger
+      cars, 15 passenger vans including the driver, trucks or
+      recreational vehicles and two or three wheel motor vehicles
+      50 cc or less, such as mopeds or small scooters.
+
 projects:
   title: Projects
   intro: >
@@ -203,19 +211,19 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Installation of residential and light commercial air conditioning units.
+  - name: Air conditioning duct cleaning.
+    level: 70%
+
+  - name: Installation of thermal insulation in ducts (foam, foil, tape, fasteners).
     level: 98%
 
-  - name: Preventive and corrective maintenance of HVAC systems.
+  - name: Construction and installation of plenums using hand and power tools.
     level: 98%
 
-  - name: Basic troubleshooting and repair of HVAC components.
-    level: 98%
-
-  - name: Experience using hand and power tools for HVAC applications.
+  - name: Basic knowledge of residential HVAC system operation.
     level: 80 %
 
-  - name: Basic understanding of HVAC diagrams and installation manuals.
+  - name: Ability to work in attics, roofs, and confined spaces.
     level: 60%
 
   - name: Strong ability to learn quickly and adapt to dynamic work environments.
@@ -224,7 +232,7 @@ skills:
   - name: Physically fit and comfortable working at heights and in varying weather conditions.
     level: 99%
 
-  - name: Customer service oriented and quality-focused.
+  - name: Punctuality, responsibility, a positive attitude, and a willingness to continuously learn.
     level: 99%
 
 footer: >
